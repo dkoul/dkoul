@@ -13,6 +13,9 @@ You can reach me at : kouldeep@gmail.com and ask me about-
 
 testing, test automation, agile, emotional intelligence, usability, team dynamics, inclusion and diversity.
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dkoul)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **dkoul/dkoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
