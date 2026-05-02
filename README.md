@@ -3,7 +3,6 @@ Deepak is an experienced engineering manager with a passion for psychology, orga
 In his current role as a senior engineering manager at Red Hat, Deepak is focused on building digital experiences for Red Hat Partners. He works closely with his team to identify opportunities for process optimization, automation, and product design improvements. 
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dkoul)](https://github.com/dkoul)
 
 
 <!--
